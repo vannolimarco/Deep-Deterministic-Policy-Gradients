@@ -23,6 +23,6 @@ in continuous action space. The environments from gym are:
            |-- models_ddpg
            |-- MountainCarContinous
            |-- Swimmer
-        |-- report.pdf
+    |-- report.pdf
          
 #### author: Vannoli Marco for Reinforcement Learning subject of Sapienza.
