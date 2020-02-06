@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d317a3d-5b3f-4a67-b637-7c7716ebccce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQlzJ5cpqbKYlxBS0zEP91woDM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="project" is-module-sdk="true">
+        <envs>
+          <env key="LD_LIBRARY_PATH" value="$LD_LIBRARY_PATH$" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="project" />
+        <option name="myEnvs">
+          <map>
+            <entry key="LD_LIBRARY_PATH" value="$LD_LIBRARY_PATH$" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/Swimmer" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="TEST_1" type="PythonConfigurationType" factoryName="Python">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEST_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH" value="$LD_LIBRARY_PATH$" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/Python/env/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ok" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ok.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="LD_LIBRARY_PATH " value="$LD_LIBRARY_PATH$" />
+        <env name="MUJOCO_KEY_PATH " value="$USER_HOME$/.mujoco" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TEST_1" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.model" />
+      <item itemvalue="Python.ok" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.ok" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d317a3d-5b3f-4a67-b637-7c7716ebccce" name="Default Changelist" comment="" />
+      <created>1574068960161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574068960161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="215" width="800" height="684" key="#Python" timestamp="1580168611649">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="215" width="800" height="684" key="#Python/70.27.1850.1053@70.27.1850.1053" timestamp="1580168611649" />
+    <state x="669" y="160" width="642" height="794" key="#TEST_1" timestamp="1579089980494">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="669" y="160" width="642" height="794" key="#TEST_1/70.27.1850.1053@70.27.1850.1053" timestamp="1579089980494" />
+    <state x="453" y="211" width="1084" height="719" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580203209778">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="453" y="211" width="1084" height="719" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1580203209778" />
+    <state x="778" y="261" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1580167954013">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="261" width="424" height="591" key="#com.intellij.ide.macro.MacrosDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1580167954013" />
+    <state x="728" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580142858906">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="728" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1580142858906" />
+    <state x="942" y="238" key="#xdebugger.evaluate" timestamp="1580171159275">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="942" y="238" key="#xdebugger.evaluate/70.27.1850.1053@70.27.1850.1053" timestamp="1580171159275" />
+    <state width="1848" height="440" key="DebuggerActiveHint" timestamp="1580170947987">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1848" height="440" key="DebuggerActiveHint/70.27.1850.1053@70.27.1850.1053" timestamp="1580170947987" />
+    <state x="732" y="317" width="515" height="479" key="EnvironmentVariablesDialog" timestamp="1580202855698">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="732" y="317" width="515" height="479" key="EnvironmentVariablesDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1580202855698" />
+    <state x="778" y="311" width="501" height="498" key="FileChooserDialogImpl" timestamp="1580649786984">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="778" y="311" width="501" height="498" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1580649786984" />
+    <state width="1850" height="247" key="GridCell.Tab.0.bottom" timestamp="1580203788603">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1850" height="247" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1580203788603" />
+    <state width="1850" height="247" key="GridCell.Tab.0.center" timestamp="1580203788603">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1850" height="247" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1580203788603" />
+    <state width="1850" height="247" key="GridCell.Tab.0.left" timestamp="1580203788603">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1850" height="247" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1580203788603" />
+    <state width="1850" height="247" key="GridCell.Tab.0.right" timestamp="1580203788603">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1850" height="247" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1580203788603" />
+    <state width="1827" height="339" key="GridCell.Tab.1.bottom" timestamp="1580171407678">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="339" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1580171407678" />
+    <state width="1827" height="339" key="GridCell.Tab.1.center" timestamp="1580171407678">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="339" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1580171407678" />
+    <state width="1827" height="339" key="GridCell.Tab.1.left" timestamp="1580171407678">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="339" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1580171407678" />
+    <state width="1827" height="339" key="GridCell.Tab.1.right" timestamp="1580171407678">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="339" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1580171407678" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1580217900471">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1580217900471" />
+    <state x="170" y="127" width="1650" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1580427068080">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="170" y="127" width="1650" height="853" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1580427068080" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1580635886999">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1580635886999" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1580550863926">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1580550863926" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Python/env/lib/python3.7/site-packages/mujoco_py/builder.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
