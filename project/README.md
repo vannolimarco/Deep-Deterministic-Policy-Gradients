@@ -7,22 +7,22 @@ in continuous action space. The environments from gym are:
 
 ## The tree of project is the following:
 ## skeleton
-|-- project
-    │-- README.md
-    │-- code
-       |-- class_  
-       |  |-- actor_critic.py
-       |  |-- ddpg.py
-       |  |-- noise.py
-       |  |-- normalization.py
-       |  |-- path_config.py
-       |  |-- replay_buffer.py
-       |-- main.py
-       |-- utils.py
-    |-- results
-       |-- models_ddpg
-       |-- MountainCarContinous
-       |-- Swimmer
-|-- report.pdf
+    |-- project
+        │-- README.md
+        │-- code
+           |-- class_  
+           |  |-- actor_critic.py
+           |  |-- ddpg.py
+           |  |-- noise.py
+           |  |-- normalization.py
+           |  |-- path_config.py
+           |  |-- replay_buffer.py
+           |-- main.py
+           |-- utils.py
+        |-- results
+           |-- models_ddpg
+           |-- MountainCarContinous
+           |-- Swimmer
+        |-- report.pdf
          
 #### author: Vannoli Marco for Reinforcement Learning subject of Sapienza.
