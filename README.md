@@ -1,3 +1,5 @@
+![Logo Sapienza](/logo-sapienza-new.jpg)
+
 # Welcome to Vannoli Marco github 
 The repository is dedicated to reinforcement learning and the Deep Deterministic Policy Gradient algorithm. Inside it, you will find the code implemented and tested on two environments provided by gym: the mountain car continuous and the swimmer robot (mujoco).Enjoy the reading!
 # Report about it
